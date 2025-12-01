@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <string.h>
 
 int main() {
-printf("Bonjour l'ISEP");
+    printf("Bonjour le Monde!\n");
+    return 0;
 }
 
